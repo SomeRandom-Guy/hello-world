@@ -9,4 +9,5 @@ int main()
 functionCall()
 {
 	printf("this is a function call\n");
+	printf("Hello from inside the wire.\n");
 }
