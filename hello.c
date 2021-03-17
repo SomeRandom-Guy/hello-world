@@ -6,8 +6,3 @@ int main()
 	functionCall();
  	exit(0);  
 }       // end of the program
-functionCall()
-{
-	printf("this is a function call\n");
-	printf("Hello from inside the wire.\n");
-}
